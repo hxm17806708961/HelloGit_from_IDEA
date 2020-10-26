@@ -19,5 +19,7 @@ public class HelloGit {
 
         System.out.println("测试SSH");
 
+        System.out.println("克隆下来的项目");
+
     }
 }
